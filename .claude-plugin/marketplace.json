@@ -1,5 +1,22 @@
 {
   "name": "cade",
-  "owner": { "name": "CADE Soluciones de Ingeniería" },
-  "plugins": []
+  "owner": {
+    "name": "CADE Soluciones de Ingeniería"
+  },
+  "metadata": {
+    "description": "Plugins de Claude Code de CADE."
+  },
+  "plugins": [
+    {
+      "name": "cadelab",
+      "source": {
+        "source": "archive",
+        "url": "https://lab.cade.local/claude/plugins/cadelab-0.5.0-07353c71.zip",
+        "sha256": "07353c71ef75c340920da37635d26650462cb571b7ef5969efbc8a5eada01f81"
+      },
+      "description": "Conector de CADE Lab: actualiza la ficha del desarrollo en el que trabajas (borradores de novedad, hitos y tareas) e instala skills del catálogo.",
+      "version": "0.5.0",
+      "category": "productivity"
+    }
+  ]
 }
