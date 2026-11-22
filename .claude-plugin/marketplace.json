@@ -11,11 +11,11 @@
       "name": "cadelab",
       "source": {
         "source": "archive",
-        "url": "https://lab.cade.local/claude/plugins/cadelab-0.5.1-4e170823.zip",
-        "sha256": "4e170823fdb3fd6e994d099859af339186104cb6fd6fe2c55add14329037cb9b"
+        "url": "https://lab.cade.local/claude/plugins/cadelab-0.7.0-77024da3.zip",
+        "sha256": "77024da3cd6ba640a420143561bbf3d66a5d8dff9d0bae7e2ddee084ebbdf6d3"
       },
       "description": "Conector de CADE Lab: actualiza la ficha del desarrollo en el que trabajas (borradores de novedad, hitos y tareas) e instala skills del catálogo.",
-      "version": "0.5.1",
+      "version": "0.7.0",
       "category": "productivity"
     }
   ]
