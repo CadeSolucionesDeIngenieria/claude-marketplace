@@ -10,13 +10,12 @@
     {
       "name": "cade-desarrollo",
       "source": {
-        "source": "github",
-        "repo": "CadeSolucionesDeIngenieria/py_cade_claude",
-        "ref": "v0.4.0",
-        "sha": "3751c76853796a3bfcb222ea326b2c51ca09ac3f"
+        "source": "archive",
+        "url": "https://lab.cade.local/claude/plugins/cade-desarrollo-0.4.1-bb159e17.zip",
+        "sha256": "bb159e170e5b1fc533ba93cb7cd938fadfa4e442a80698bdc748b46827207afb"
       },
       "description": "Normas de CADE para programar con Claude Code: sin claves en el código, repositorios siempre privados, gitleaks antes de commit y push, agentes por tecnología y revisión antes de entregar.",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "category": "development"
     },
     {
