@@ -8,17 +8,6 @@
   },
   "plugins": [
     {
-      "name": "cadelab",
-      "source": {
-        "source": "archive",
-        "url": "https://lab.cade.local/claude/plugins/cadelab-0.9.1-b96f8669.zip",
-        "sha256": "b96f8669c8c9f1a60b24f4a250ed3053fd17560f196f643e0f211a7fff6ea118"
-      },
-      "description": "Conector de CADE Lab: actualiza la ficha del desarrollo en el que trabajas (borradores de novedad, hitos y tareas) e instala skills del catálogo.",
-      "version": "0.9.1",
-      "category": "productivity"
-    },
-    {
       "name": "cade-desarrollo",
       "source": {
         "source": "github",
@@ -29,6 +18,17 @@
       "description": "Normas de CADE para programar con Claude Code: sin claves en el código, repositorios siempre privados, gitleaks antes de commit y push, agentes por tecnología y revisión antes de entregar.",
       "version": "0.4.0",
       "category": "development"
+    },
+    {
+      "name": "cadelab",
+      "source": {
+        "source": "archive",
+        "url": "https://lab.cade.local/claude/plugins/cadelab-0.9.2-ece12f81.zip",
+        "sha256": "ece12f8162ee89467671296271aa386a0cdadfc573248c9bfb5c8a0d6fd10477"
+      },
+      "description": "Conector de CADE Lab: actualiza la ficha del desarrollo en el que trabajas (borradores de novedad, hitos y tareas) e instala skills del catálogo.",
+      "version": "0.9.2",
+      "category": "productivity"
     }
   ]
 }
